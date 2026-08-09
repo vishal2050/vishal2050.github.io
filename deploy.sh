@@ -21,6 +21,7 @@ fi
 echo "==> Building static export for GitHub Pages"
 export GITHUB_PAGES=true
 export NEXT_PUBLIC_SITE_URL="$SITE_URL"
+export NEXT_PUBLIC_BASE_PATH="/${REPO_NAME}"
 npm run build
 
 if [[ ! -d "$OUT_DIR" ]]; then

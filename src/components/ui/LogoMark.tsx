@@ -1,0 +1,56 @@
+import { cn } from "@/lib/utils";
+
+/** Inline brand mark — never depends on a public file path (GitHub Pages safe). */
+export function LogoMark({ className }: { className?: string }) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 64 64"
+      fill="none"
+      className={cn("h-9 w-9", className)}
+      aria-hidden="true"
+    >
+      <defs>
+        <linearGradient
+          id="sutravaMarkGrad"
+          x1="8"
+          y1="8"
+          x2="56"
+          y2="56"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset="0%" stopColor="#67E8F9" />
+          <stop offset="55%" stopColor="#00D4FF" />
+          <stop offset="100%" stopColor="#22D3EE" />
+        </linearGradient>
+      </defs>
+      <path
+        d="M46 14c-3.2-4.4-8.4-6.8-14.4-6.8C21.2 7.2 14 13.2 14 22c0 7.2 4.8 11.2 14.8 13.6L34 37.2C42.4 39.2 46 42 46 47.2c0 5.6-5.2 9.6-12.4 9.6-5.2 0-9.6-2-12.4-5.6"
+        stroke="url(#sutravaMarkGrad)"
+        strokeWidth="2.4"
+        strokeLinecap="round"
+      />
+      <path
+        d="M49 16.5c-3-4-7.8-6.2-13.4-6.2C24.4 10.3 17.8 15.8 17.8 23.5c0 6.4 4.2 9.8 13.2 12L36.4 37c7.6 1.8 10.8 4.4 10.8 9.2 0 5-4.6 8.6-11.2 8.6-4.6 0-8.6-1.8-11.2-5"
+        stroke="url(#sutravaMarkGrad)"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        opacity="0.75"
+      />
+      <path
+        d="M43 12c-2.8-3.6-7.2-5.4-12.2-5.4C21.6 6.6 15.8 11.4 15.8 18.8c0 6 4 9.2 12.6 11.4l4.6 1.2c8.4 2.2 12.2 5.2 12.2 11.2 0 6.2-5.8 10.6-13.6 10.6-5.6 0-10.4-2.2-13.4-6.2"
+        stroke="url(#sutravaMarkGrad)"
+        strokeWidth="1.2"
+        strokeLinecap="round"
+        opacity="0.45"
+      />
+      <circle cx="46" cy="14" r="2.2" fill="#00D4FF" />
+      <circle cx="31.5" cy="7.2" r="1.6" fill="#67E8F9" />
+      <circle cx="14" cy="22" r="2" fill="#00D4FF" />
+      <circle cx="28.8" cy="35.6" r="1.8" fill="#22D3EE" />
+      <circle cx="46" cy="47.2" r="2" fill="#00D4FF" />
+      <circle cx="21.2" cy="51.2" r="1.8" fill="#67E8F9" />
+      <path d="M48.5 11.5 L52 8 L52 14.5 Z" fill="#00D4FF" opacity="0.9" />
+    </svg>
+  );
+}

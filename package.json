@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "deploy": "bash ./deploy.sh",
-    "export:pages": "GITHUB_PAGES=true NEXT_PUBLIC_SITE_URL=https://vishal2050.github.io/SutravaSoftwareSolution next build"
+    "export:pages": "GITHUB_PAGES=true NEXT_PUBLIC_SITE_URL=https://vishal2050.github.io/SutravaSoftwareSolution NEXT_PUBLIC_BASE_PATH=/SutravaSoftwareSolution next build"
   },
   "dependencies": {
     "clsx": "^2.1.1",

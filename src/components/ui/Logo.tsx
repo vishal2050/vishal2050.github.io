@@ -1,7 +1,6 @@
-import Image from "next/image";
 import Link from "next/link";
 import { BRAND } from "@/config/brand";
-import { withBasePath } from "@/lib/paths";
+import { LogoMark } from "@/components/ui/LogoMark";
 import { cn } from "@/lib/utils";
 
 export function Logo({
@@ -20,14 +19,7 @@ export function Logo({
       )}
       aria-label={`${BRAND.name} home`}
     >
-      <Image
-        src={withBasePath("/brand/logo-mark.svg")}
-        alt=""
-        width={36}
-        height={36}
-        className="h-9 w-9 transition-transform duration-300 group-hover:scale-105"
-        priority
-      />
+      <LogoMark className="transition-transform duration-300 group-hover:scale-105" />
       {!compact && (
         <span className="flex flex-col leading-none">
           <span className="text-sm font-bold tracking-[0.22em] text-white">
