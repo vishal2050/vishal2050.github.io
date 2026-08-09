@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FadeIn } from "@/components/animations/Motion";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { documentTypes } from "@/data/services";
+import { withBasePath } from "@/lib/paths";
 
 const flow = ["PDF", "AI extraction", "Validation", "Structured data", "Business system"];
 
@@ -54,7 +55,7 @@ export function DocumentSection() {
         <FadeIn delay={0.1}>
           <div className="relative overflow-hidden rounded-[1.5rem] border border-white/10">
             <Image
-              src="/visuals/document-ai.png"
+              src={withBasePath("/visuals/document-ai.png")}
               alt="Document intelligence transforming PDFs into structured data"
               width={1400}
               height={788}

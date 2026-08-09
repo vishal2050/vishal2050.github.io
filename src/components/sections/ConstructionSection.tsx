@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FadeIn } from "@/components/animations/Motion";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { Button } from "@/components/ui/Button";
+import { withBasePath } from "@/lib/paths";
 
 const pipeline = [
   "DRAWINGS",
@@ -41,7 +42,7 @@ export function ConstructionSection() {
           <FadeIn>
             <div className="overflow-hidden rounded-[1.5rem] border border-white/10">
               <Image
-                src="/visuals/construction-ai.png"
+                src={withBasePath("/visuals/construction-ai.png")}
                 alt="Construction project intelligence platform visualization"
                 width={1400}
                 height={788}

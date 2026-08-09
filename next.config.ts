@@ -4,6 +4,8 @@ import path from "path";
 const isGithubPages = process.env.GITHUB_PAGES === "true";
 const repoName = "SutravaSoftwareSolution";
 
+const basePath = isGithubPages ? `/${repoName}` : "";
+
 const nextConfig: NextConfig = {
   turbopack: {
     root: path.join(__dirname),
@@ -16,8 +18,11 @@ const nextConfig: NextConfig = {
     unoptimized: isGithubPages,
   },
   // Project Pages URL: https://vishal2050.github.io/SutravaSoftwareSolution/
-  basePath: isGithubPages ? `/${repoName}` : "",
-  assetPrefix: isGithubPages ? `/${repoName}/` : undefined,
+  basePath,
+  assetPrefix: isGithubPages ? `${basePath}/` : undefined,
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
 };
 
 export default nextConfig;

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BRAND } from "@/config/brand";
+import { withBasePath } from "@/lib/paths";
 import { cn } from "@/lib/utils";
 
 export function Logo({
@@ -20,7 +21,7 @@ export function Logo({
       aria-label={`${BRAND.name} home`}
     >
       <Image
-        src="/brand/logo-mark.svg"
+        src={withBasePath("/brand/logo-mark.svg")}
         alt=""
         width={36}
         height={36}

@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { Navbar } from "@/components/navigation/Navbar";
 import { Footer } from "@/components/navigation/Footer";
 import { BRAND } from "@/config/brand";
+import { withBasePath } from "@/lib/paths";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -38,17 +39,24 @@ export const metadata: Metadata = {
     siteName: BRAND.legalName,
     title: `${BRAND.name} — AI Business Automation & Intelligence`,
     description: BRAND.description,
-    images: [{ url: "/brand/og-image.png", width: 1920, height: 1080, alt: BRAND.name }],
+    images: [
+      {
+        url: withBasePath("/brand/og-image.png"),
+        width: 1920,
+        height: 1080,
+        alt: BRAND.name,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: `${BRAND.name} — AI Business Automation & Intelligence`,
     description: BRAND.description,
-    images: ["/brand/og-image.png"],
+    images: [withBasePath("/brand/og-image.png")],
   },
   icons: {
-    icon: [{ url: "/brand/favicon.svg", type: "image/svg+xml" }],
-    apple: [{ url: "/brand/logo-mark.png" }],
+    icon: [{ url: withBasePath("/brand/favicon.svg"), type: "image/svg+xml" }],
+    apple: [{ url: withBasePath("/brand/logo-mark.png") }],
   },
   alternates: {
     canonical: "/",
