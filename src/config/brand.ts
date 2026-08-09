@@ -10,7 +10,10 @@ export const BRAND = {
     "We find where businesses lose time, money, and opportunities — then build AI-powered systems to fix it.",
   positioning:
     "We are software intelligence for your company — helping you grow, save time on repetitive tasks, and manage data more effectively.",
-  url: "https://sutrava.com",
+  url:
+    process.env.NEXT_PUBLIC_SITE_URL ??
+    "https://vishal2050.github.io/SutravaSoftwareSolution",
+
   email: "hello@sutrava.com",
   phone: "+91 00000 00000",
   cta: {

@@ -31,6 +31,23 @@ Open [http://localhost:3000](http://localhost:3000).
 - `npm run build` — production build
 - `npm run start` — serve production build
 - `npm run lint` — ESLint
+- `npm run deploy` — build static site and publish to GitHub Pages (`gh-pages`)
+
+## GitHub Pages
+
+```bash
+npm run deploy
+```
+
+This runs `deploy.sh`, which:
+1. Builds a static export with `GITHUB_PAGES=true`
+2. Force-pushes the `out/` folder to the `gh-pages` branch
+
+Live URL after Pages is enabled:
+
+`https://vishal2050.github.io/SutravaSoftwareSolution/`
+
+In GitHub: **Settings → Pages → Deploy from a branch → `gh-pages` / root**
 
 ## Structure
 
