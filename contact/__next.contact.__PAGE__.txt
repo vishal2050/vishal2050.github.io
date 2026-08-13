@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[76858,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/20fj931bogrrn.js"],"ContactForm"]
+3:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"MetadataBoundary"]
+7:X
+2d:X
+2d:C
+0:{"buildId":"sgvMhmyByH_EpihiYklTz","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden pt-28 pb-12 sm:pt-32","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 grid-bg opacity-50"}],["$","div",null,{"className":"glow-orb left-[-8%] top-16 h-64 w-64 bg-accent/15"}],["$","div",null,{"className":"container-page relative max-w-4xl","children":[["$","p",null,{"className":"eyebrow mb-4","children":"Contact"}],["$","h1",null,{"className":"text-balance text-4xl font-semibold tracking-tight text-white sm:text-5xl","children":"Tell us where your business is leaking."}],["$","p",null,{"className":"mt-5 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg","children":"Share your operational context. We'll identify high-leverage automation and intelligence opportunities."}],"$undefined"]}]]}],["$","section",null,{"className":"section pt-0","children":["$","div",null,{"className":"container-page grid gap-10 lg:grid-cols-[0.9fr_1.1fr]","children":[["$","div",null,{"className":"space-y-6","children":[["$","div",null,{"className":"rounded-2xl border border-white/8 bg-surface-elevated p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-white","children":"What happens next"}],["$","ol",null,{"className":"mt-4 space-y-3 text-sm text-zinc-400","children":[["$","li",null,{"children":"1. We review your workflows and current tools."}],["$","li",null,{"children":"2. We identify likely leakage and automation opportunities."}],["$","li",null,{"children":"3. We propose a practical discovery path and next steps."}]]}]]}],["$","div",null,{"id":"assessment","className":"rounded-2xl border border-accent/25 bg-[#07151c] p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-white","children":"Free Business Leak Assessment"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-zinc-400","children":"Use the form to request your assessment. No invented case studies — just a clear look at where systems could save time or recover revenue."}]]}],["$","div",null,{"className":"space-y-1 text-sm text-zinc-500","children":[["$","p",null,{"children":["Email:"," ",["$","a",null,{"href":"mailto:hello@sutravasoftwaresolutions.com","className":"text-zinc-300 hover:text-accent","children":"hello@sutravasoftwaresolutions.com"}]]}],["$","p",null,{"children":["Phone / WhatsApp:"," ",["$","a",null,{"href":"https://wa.me/919106217931","className":"text-zinc-300 hover:text-accent","target":"_blank","rel":"noreferrer","children":"+91 91062 17931"}]]}],["$","p",null,{"className":"mt-2","children":"Find the leaks. Automate the work. Grow the business."}]]}]]}],["$","div",null,{"className":"rounded-[1.5rem] border border-white/8 bg-surface-elevated p-6 sm:p-8","children":["$","$L2",null,{"assessment":true}]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/20fj931bogrrn.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050505"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact Sutrava — Global Business Automation Audit & Consulting | Sutrava Software Solutions"}],["$","meta","1",{"name":"description","content":"Contact Sutrava from the USA, Australia, New Zealand, or anywhere for AI business automation, software consulting, or a free business leak assessment. Email hello@sutravasoftwaresolutions.com or WhatsApp +91 91062 17931."}],["$","meta","2",{"name":"application-name","content":"Sutrava Software Solutions"}],["$","link","3",{"rel":"author","href":"https://sutravasoftwaresolutions.com"}],["$","meta","4",{"name":"author","content":"Sutrava Software Solutions"}],["$","meta","5",{"name":"keywords","content":"Sutrava,Sutrava Software Solutions,AI business automation,business automation company,software consulting,AI consulting company,custom software development,workflow automation,business process automation,AI software solutions,software intelligence,remote software consulting,global AI automation partner,money leak detection,operational efficiency software,automate repetitive tasks,document intelligence,AI document processing,invoice automation,WhatsApp business automation,CRM automation,lead recovery automation,construction AI software,rebar detailing software,manufacturing automation software,logistics automation,SME business automation,AI for small business,AI for medium business,AI automation company USA,business automation USA,software consulting United States,AI automation Australia,software consulting Australia,business automation New Zealand,software consulting New Zealand,AI automation UK,custom SaaS development,business automation audit,international software consulting"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}]}],"$L29"]}],"isPartial":"$@2a","staleTime":"$7","varyParams":null},{"rsc":"$L2b","isPartial":"$@2c","staleTime":"$7","varyParams":"$2d"}],"isUpgradeableISRFallback":false,"a":"$@2e","rootVaryParams":null,"needsRuntimeRequest":"$@2f"}
+30:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"IconMark"]
+31:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+32:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+5:null
+a:["$","meta","6",{"name":"creator","content":"Sutrava Software Solutions"}]
+b:["$","meta","7",{"name":"publisher","content":"Sutrava Software Solutions"}]
+c:["$","meta","8",{"name":"robots","content":"index, follow"}]
+d:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+e:["$","meta","10",{"name":"category","content":"technology"}]
+f:["$","link","11",{"rel":"canonical","href":"https://sutravasoftwaresolutions.com/contact/"}]
+10:["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+11:["$","meta","13",{"property":"og:title","content":"Contact Sutrava — Global Business Automation Audit & Consulting"}]
+12:["$","meta","14",{"property":"og:description","content":"Contact Sutrava from the USA, Australia, New Zealand, or anywhere for AI business automation, software consulting, or a free business leak assessment. Email hello@sutravasoftwaresolutions.com or WhatsApp +91 91062 17931."}]
+13:["$","meta","15",{"property":"og:url","content":"https://sutravasoftwaresolutions.com/contact/"}]
+14:["$","meta","16",{"property":"og:site_name","content":"Sutrava Software Solutions"}]
+15:["$","meta","17",{"property":"og:locale","content":"en_US"}]
+16:["$","meta","18",{"property":"og:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+17:["$","meta","19",{"property":"og:image:width","content":"1920"}]
+18:["$","meta","20",{"property":"og:image:height","content":"1080"}]
+19:["$","meta","21",{"property":"og:image:alt","content":"Sutrava Software Solutions — AI Business Automation Worldwide"}]
+1a:["$","meta","22",{"property":"og:locale:alternate","content":"en_AU"}]
+1b:["$","meta","23",{"property":"og:locale:alternate","content":"en_NZ"}]
+1c:["$","meta","24",{"property":"og:locale:alternate","content":"en_GB"}]
+1d:["$","meta","25",{"property":"og:locale:alternate","content":"en_CA"}]
+1e:["$","meta","26",{"property":"og:locale:alternate","content":"en_IN"}]
+1f:["$","meta","27",{"property":"og:type","content":"website"}]
+20:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+21:["$","meta","29",{"name":"twitter:title","content":"Contact Sutrava — Global Business Automation Audit & Consulting"}]
+22:["$","meta","30",{"name":"twitter:description","content":"Contact Sutrava from the USA, Australia, New Zealand, or anywhere for AI business automation, software consulting, or a free business leak assessment. Email hello@sutravasoftwaresolutions.com or WhatsApp +91 91062 17931."}]
+23:["$","meta","31",{"name":"twitter:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+24:["$","link","32",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+25:["$","link","33",{"rel":"icon","href":"/brand/favicon-96.png","sizes":"64x64","type":"image/png"}]
+26:["$","link","34",{"rel":"icon","href":"/brand/logo-mark.png","sizes":"128x128","type":"image/png"}]
+27:["$","link","35",{"rel":"apple-touch-icon","href":"/brand/apple-touch-icon.png"}]
+28:["$","$L30","36",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+2b:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+2f:true
+7:300
+7:C
+2e:0
+2c:"$undefined"
+6:"$undefined"
+2a:"$undefined"

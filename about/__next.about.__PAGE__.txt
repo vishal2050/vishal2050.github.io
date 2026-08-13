@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[59544,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/3gm176pdgq8jx.js"],"Button"]
+3:I[58000,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/3gm176pdgq8jx.js"],"FadeIn"]
+4:I[5892,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/3gm176pdgq8jx.js"],"TrustSection"]
+5:I[4224,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/3gm176pdgq8jx.js"],"LeadMagnet"]
+6:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"MetadataBoundary"]
+a:X
+35:X
+35:C
+0:{"buildId":"sgvMhmyByH_EpihiYklTz","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden pt-28 pb-12 sm:pt-32","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 grid-bg opacity-50"}],["$","div",null,{"className":"glow-orb left-[-8%] top-16 h-64 w-64 bg-accent/15"}],["$","div",null,{"className":"container-page relative max-w-4xl","children":[["$","p",null,{"className":"eyebrow mb-4","children":"About"}],["$","h1",null,{"className":"text-balance text-4xl font-semibold tracking-tight text-white sm:text-5xl","children":"Engineering intelligence into everyday business operations."}],["$","p",null,{"className":"mt-5 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg","children":"We are software intelligence for your company — helping you grow, save time on repetitive tasks, and manage data more effectively."}],["$","div",null,{"className":"mt-8 flex flex-col gap-3 sm:flex-row","children":[["$","$L2",null,{"href":"/contact","showArrow":true,"children":"Work with us"}],"$undefined"]}]]}]]}],["$","section",null,{"className":"section pt-0","children":["$","div",null,{"className":"container-page grid gap-6 md:grid-cols-3","children":[["$","$L3","Outcome-first",{"delay":0,"children":["$","div",null,{"className":"h-full rounded-2xl border border-white/8 bg-surface-elevated p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-white","children":"Outcome-first"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-zinc-400","children":"We start with leakage, bottlenecks, and wasted hours — then design the system that removes them."}]]}]}],["$","$L3","Domain-aware",{"delay":0.08,"children":["$","div",null,{"className":"h-full rounded-2xl border border-white/8 bg-surface-elevated p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-white","children":"Domain-aware"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-zinc-400","children":"Construction, manufacturing, logistics, and service operations each need different signals and workflows."}]]}]}],["$","$L3","Engineering-led",{"delay":0.16,"children":["$","div",null,{"className":"h-full rounded-2xl border border-white/8 bg-surface-elevated p-6","children":[["$","h2",null,{"className":"text-lg font-semibold text-white","children":"Engineering-led"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-zinc-400","children":"Custom software, integrations, and AI agents — built to fit your process, not the other way around."}]]}]}]]}]}],["$","section",null,{"className":"section pt-0","children":["$","div",null,{"className":"container-page max-w-3xl","children":["$","$L3",null,{"children":[["$","p",null,{"className":"text-lg leading-relaxed text-zinc-300","children":"We find where businesses lose time, money, and opportunities — then build AI-powered systems to fix it."}],["$","p",null,{"className":"mt-4 text-base leading-relaxed text-zinc-400","children":["SUTRAVA"," comes from “Sūtra” — a thread, framework, or principle that connects things. That is the work: connecting business problems with intelligent software solutions."]}],["$","p",null,{"className":"mt-4 text-base leading-relaxed text-zinc-400","children":"Delivered work already includes portfolio platforms for construction and environmental companies, plus custom operations tooling such as rebar detailing server launchers and AutoCAD VBA automation."}]]}]}]}],["$","$L4",null,{}],["$","$L5",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/3gm176pdgq8jx.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050505"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About Sutrava — Global Software Intelligence for Business Growth | Sutrava Software Solutions"}],"$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]}]}],"$L31"]}],"isPartial":"$@32","staleTime":"$a","varyParams":null},{"rsc":"$L33","isPartial":"$@34","staleTime":"$a","varyParams":"$35"}],"isUpgradeableISRFallback":false,"a":"$@36","rootVaryParams":null,"needsRuntimeRequest":"$@37"}
+38:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"IconMark"]
+39:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+3a:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+8:null
+d:["$","meta","1",{"name":"description","content":"Learn about Sutrava Software Solutions — engineering intelligence into everyday operations with AI automation, custom software, and practical consulting for international businesses."}]
+e:["$","meta","2",{"name":"application-name","content":"Sutrava Software Solutions"}]
+f:["$","link","3",{"rel":"author","href":"https://sutravasoftwaresolutions.com"}]
+10:["$","meta","4",{"name":"author","content":"Sutrava Software Solutions"}]
+11:["$","meta","5",{"name":"keywords","content":"Sutrava,Sutrava Software Solutions,AI business automation,business automation company,software consulting,AI consulting company,custom software development,workflow automation,business process automation,AI software solutions,software intelligence,remote software consulting,global AI automation partner,money leak detection,operational efficiency software,automate repetitive tasks,document intelligence,AI document processing,invoice automation,WhatsApp business automation,CRM automation,lead recovery automation,construction AI software,rebar detailing software,manufacturing automation software,logistics automation,SME business automation,AI for small business,AI for medium business,AI automation company USA,business automation USA,software consulting United States,AI automation Australia,software consulting Australia,business automation New Zealand,software consulting New Zealand,AI automation UK,custom SaaS development,business automation audit,international software consulting"}]
+12:["$","meta","6",{"name":"creator","content":"Sutrava Software Solutions"}]
+13:["$","meta","7",{"name":"publisher","content":"Sutrava Software Solutions"}]
+14:["$","meta","8",{"name":"robots","content":"index, follow"}]
+15:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+16:["$","meta","10",{"name":"category","content":"technology"}]
+17:["$","link","11",{"rel":"canonical","href":"https://sutravasoftwaresolutions.com/about/"}]
+18:["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+19:["$","meta","13",{"property":"og:title","content":"About Sutrava — Global Software Intelligence for Business Growth"}]
+1a:["$","meta","14",{"property":"og:description","content":"Learn about Sutrava Software Solutions — engineering intelligence into everyday operations with AI automation, custom software, and practical consulting for international businesses."}]
+1b:["$","meta","15",{"property":"og:url","content":"https://sutravasoftwaresolutions.com/about/"}]
+1c:["$","meta","16",{"property":"og:site_name","content":"Sutrava Software Solutions"}]
+1d:["$","meta","17",{"property":"og:locale","content":"en_US"}]
+1e:["$","meta","18",{"property":"og:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+1f:["$","meta","19",{"property":"og:image:width","content":"1920"}]
+20:["$","meta","20",{"property":"og:image:height","content":"1080"}]
+21:["$","meta","21",{"property":"og:image:alt","content":"Sutrava Software Solutions — AI Business Automation Worldwide"}]
+22:["$","meta","22",{"property":"og:locale:alternate","content":"en_AU"}]
+23:["$","meta","23",{"property":"og:locale:alternate","content":"en_NZ"}]
+24:["$","meta","24",{"property":"og:locale:alternate","content":"en_GB"}]
+25:["$","meta","25",{"property":"og:locale:alternate","content":"en_CA"}]
+26:["$","meta","26",{"property":"og:locale:alternate","content":"en_IN"}]
+27:["$","meta","27",{"property":"og:type","content":"website"}]
+28:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+29:["$","meta","29",{"name":"twitter:title","content":"About Sutrava — Global Software Intelligence for Business Growth"}]
+2a:["$","meta","30",{"name":"twitter:description","content":"Learn about Sutrava Software Solutions — engineering intelligence into everyday operations with AI automation, custom software, and practical consulting for international businesses."}]
+2b:["$","meta","31",{"name":"twitter:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+2c:["$","link","32",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+2d:["$","link","33",{"rel":"icon","href":"/brand/favicon-96.png","sizes":"64x64","type":"image/png"}]
+2e:["$","link","34",{"rel":"icon","href":"/brand/logo-mark.png","sizes":"128x128","type":"image/png"}]
+2f:["$","link","35",{"rel":"apple-touch-icon","href":"/brand/apple-touch-icon.png"}]
+30:["$","$L38","36",{}]
+31:["$","meta",null,{"name":"next-size-adjust","content":""}]
+33:["$","$1","c",{"children":[null,["$","$L39",null,{"parallelRouterKey":"children","template":["$","$L3a",null,{}]}]]}]
+37:true
+a:300
+a:C
+36:0
+34:"$undefined"
+9:"$undefined"
+32:"$undefined"

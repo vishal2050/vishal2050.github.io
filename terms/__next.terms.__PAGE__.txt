@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"MetadataBoundary"]
+6:X
+28:X
+28:C
+0:{"buildId":"sgvMhmyByH_EpihiYklTz","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden pt-28 pb-12 sm:pt-32","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 grid-bg opacity-50"}],["$","div",null,{"className":"glow-orb left-[-8%] top-16 h-64 w-64 bg-accent/15"}],["$","div",null,{"className":"container-page relative max-w-4xl","children":[["$","p",null,{"className":"eyebrow mb-4","children":"Legal"}],["$","h1",null,{"className":"text-balance text-4xl font-semibold tracking-tight text-white sm:text-5xl","children":"Terms of Use"}],["$","p",null,{"className":"mt-5 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg","children":"Terms governing use of the Sutrava Software Solutions website."}],"$undefined"]}]]}],["$","section",null,{"className":"section pt-0","children":["$","div",null,{"className":"container-page max-w-3xl space-y-4 text-sm leading-relaxed text-zinc-400","children":[["$","p",null,{"children":"Website content is provided for general information. ROI estimates and example outcomes are illustrative and not guarantees of results."}],["$","p",null,{"children":"Engagements for software, automation, or consulting services are governed by separate agreements. Do not rely on website materials as contractual commitments."}],["$","p",null,{"children":["For questions, contact ","hello@sutravasoftwaresolutions.com","."]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050505"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms | Sutrava Software Solutions"}],["$","meta","1",{"name":"description","content":"Sutrava helps businesses in the USA, Australia, New Zealand, UK, Canada, India, and worldwide grow with AI business automation, software consulting, document intelligence, workflow automation, and custom software."}],["$","meta","2",{"name":"application-name","content":"Sutrava Software Solutions"}],["$","link","3",{"rel":"author","href":"https://sutravasoftwaresolutions.com"}],["$","meta","4",{"name":"author","content":"Sutrava Software Solutions"}],["$","meta","5",{"name":"keywords","content":"Sutrava,Sutrava Software Solutions,AI business automation,business automation company,software consulting,AI consulting company,custom software development,workflow automation,business process automation,AI software solutions,software intelligence,remote software consulting,global AI automation partner,money leak detection,operational efficiency software,automate repetitive tasks,document intelligence,AI document processing,invoice automation,WhatsApp business automation,CRM automation,lead recovery automation,construction AI software,rebar detailing software,manufacturing automation software,logistics automation,SME business automation,AI for small business,AI for medium business,AI automation company USA,business automation USA,software consulting United States,AI automation Australia,software consulting Australia,business automation New Zealand,software consulting New Zealand,AI automation UK,custom SaaS development,business automation audit,international software consulting"}],["$","meta","6",{"name":"creator","content":"Sutrava Software Solutions"}],["$","meta","7",{"name":"publisher","content":"Sutrava Software Solutions"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]}],"$L24"]}],"isPartial":"$@25","staleTime":"$6","varyParams":null},{"rsc":"$L26","isPartial":"$@27","staleTime":"$6","varyParams":"$28"}],"isUpgradeableISRFallback":false,"a":"$@29","rootVaryParams":null,"needsRuntimeRequest":"$@2a"}
+2b:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"IconMark"]
+2c:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+2d:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+4:null
+9:["$","meta","10",{"name":"category","content":"technology"}]
+a:["$","link","11",{"rel":"canonical","href":"https://sutravasoftwaresolutions.com/terms/"}]
+b:["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+c:["$","meta","13",{"property":"og:title","content":"Sutrava Software Solutions | AI Business Automation & Software Consulting Worldwide"}]
+d:["$","meta","14",{"property":"og:description","content":"Sutrava helps businesses in the USA, Australia, New Zealand, UK, Canada, India, and worldwide grow with AI business automation, software consulting, document intelligence, workflow automation, and custom software."}]
+e:["$","meta","15",{"property":"og:url","content":"https://sutravasoftwaresolutions.com/"}]
+f:["$","meta","16",{"property":"og:site_name","content":"Sutrava Software Solutions"}]
+10:["$","meta","17",{"property":"og:locale","content":"en_US"}]
+11:["$","meta","18",{"property":"og:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+12:["$","meta","19",{"property":"og:image:width","content":"1920"}]
+13:["$","meta","20",{"property":"og:image:height","content":"1080"}]
+14:["$","meta","21",{"property":"og:image:alt","content":"Sutrava Software Solutions — AI Business Automation & Software Consulting Worldwide"}]
+15:["$","meta","22",{"property":"og:locale:alternate","content":"en_AU"}]
+16:["$","meta","23",{"property":"og:locale:alternate","content":"en_NZ"}]
+17:["$","meta","24",{"property":"og:locale:alternate","content":"en_GB"}]
+18:["$","meta","25",{"property":"og:locale:alternate","content":"en_CA"}]
+19:["$","meta","26",{"property":"og:locale:alternate","content":"en_IN"}]
+1a:["$","meta","27",{"property":"og:type","content":"website"}]
+1b:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","29",{"name":"twitter:title","content":"Sutrava Software Solutions | AI Business Automation & Software Consulting Worldwide"}]
+1d:["$","meta","30",{"name":"twitter:description","content":"Sutrava helps businesses in the USA, Australia, New Zealand, UK, Canada, India, and worldwide grow with AI business automation, software consulting, document intelligence, workflow automation, and custom software."}]
+1e:["$","meta","31",{"name":"twitter:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+1f:["$","link","32",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+20:["$","link","33",{"rel":"icon","href":"/brand/favicon-96.png","sizes":"64x64","type":"image/png"}]
+21:["$","link","34",{"rel":"icon","href":"/brand/logo-mark.png","sizes":"128x128","type":"image/png"}]
+22:["$","link","35",{"rel":"apple-touch-icon","href":"/brand/apple-touch-icon.png"}]
+23:["$","$L2b","36",{}]
+24:["$","meta",null,{"name":"next-size-adjust","content":""}]
+26:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+2a:true
+6:300
+6:C
+29:0
+27:"$undefined"
+5:"$undefined"
+25:"$undefined"

@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+
+Host: sutravasoftwaresolutions.com
+Sitemap: https://sutravasoftwaresolutions.com/sitemap.xml

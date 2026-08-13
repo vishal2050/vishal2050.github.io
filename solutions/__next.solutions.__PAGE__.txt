@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[59544,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/37ndq4rvvfgpw.js"],"Button"]
+3:I[4579,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/37ndq4rvvfgpw.js"],"IndustriesSection"]
+4:I[89035,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/37ndq4rvvfgpw.js"],"ConstructionSection"]
+5:I[27644,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/37ndq4rvvfgpw.js"],"CaseStudiesSection"]
+6:I[4224,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/37ndq4rvvfgpw.js"],"LeadMagnet"]
+7:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+c:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"MetadataBoundary"]
+b:X
+2b:X
+2b:C
+0:{"buildId":"sgvMhmyByH_EpihiYklTz","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden pt-28 pb-12 sm:pt-32","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 grid-bg opacity-50"}],["$","div",null,{"className":"glow-orb left-[-8%] top-16 h-64 w-64 bg-accent/15"}],["$","div",null,{"className":"container-page relative max-w-4xl","children":[["$","p",null,{"className":"eyebrow mb-4","children":"Solutions"}],["$","h1",null,{"className":"text-balance text-4xl font-semibold tracking-tight text-white sm:text-5xl","children":"Industry-specific AI automation for real operations."}],["$","p",null,{"className":"mt-5 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg","children":"From construction billing leakage to logistics empty loads — Sutrava designs software consulting and automation around the workflows that actually move money."}],["$","div",null,{"className":"mt-8 flex flex-col gap-3 sm:flex-row","children":[["$","$L2",null,{"href":"/contact#assessment","showArrow":true,"children":"Get My Free Assessment"}],"$undefined"]}]]}]]}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/37ndq4rvvfgpw.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lc",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050505"}]]}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Industry AI Solutions for Construction, Manufacturing & SMEs Worldwide | Sutrava Software Solutions"}],["$","meta","1",{"name":"description","content":"Industry-specific AI and automation solutions for construction, manufacturing, logistics, real estate, healthcare admin, education, restaurants, and SME operations across the USA, Australia, New Zealand, and global markets."}],["$","meta","2",{"name":"application-name","content":"Sutrava Software Solutions"}],["$","link","3",{"rel":"author","href":"https://sutravasoftwaresolutions.com"}],["$","meta","4",{"name":"author","content":"Sutrava Software Solutions"}],["$","meta","5",{"name":"keywords","content":"Sutrava,Sutrava Software Solutions,AI business automation,business automation company,software consulting,AI consulting company,custom software development,workflow automation,business process automation,AI software solutions,software intelligence,remote software consulting,global AI automation partner,money leak detection,operational efficiency software,automate repetitive tasks,document intelligence,AI document processing,invoice automation,WhatsApp business automation,CRM automation,lead recovery automation,construction AI software,rebar detailing software,manufacturing automation software,logistics automation,SME business automation,AI for small business,AI for medium business,AI automation company USA,business automation USA,software consulting United States,AI automation Australia,software consulting Australia,business automation New Zealand,software consulting New Zealand,AI automation UK,custom SaaS development,business automation audit,international software consulting"}],["$","meta","6",{"name":"creator","content":"Sutrava Software Solutions"}],["$","meta","7",{"name":"publisher","content":"Sutrava Software Solutions"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"technology"}],["$","link","11",{"rel":"canonical","href":"https://sutravasoftwaresolutions.com/solutions/"}],"$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]}],"$L27"]}],"isPartial":"$@28","staleTime":"$b","varyParams":null},{"rsc":"$L29","isPartial":"$@2a","staleTime":"$b","varyParams":"$2b"}],"isUpgradeableISRFallback":false,"a":"$@2c","rootVaryParams":null,"needsRuntimeRequest":"$@2d"}
+2e:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"IconMark"]
+2f:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+30:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+9:null
+e:["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+f:["$","meta","13",{"property":"og:title","content":"Industry AI Solutions for Construction, Manufacturing & SMEs Worldwide"}]
+10:["$","meta","14",{"property":"og:description","content":"Industry-specific AI and automation solutions for construction, manufacturing, logistics, real estate, healthcare admin, education, restaurants, and SME operations across the USA, Australia, New Zealand, and global markets."}]
+11:["$","meta","15",{"property":"og:url","content":"https://sutravasoftwaresolutions.com/solutions/"}]
+12:["$","meta","16",{"property":"og:site_name","content":"Sutrava Software Solutions"}]
+13:["$","meta","17",{"property":"og:locale","content":"en_US"}]
+14:["$","meta","18",{"property":"og:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+15:["$","meta","19",{"property":"og:image:width","content":"1920"}]
+16:["$","meta","20",{"property":"og:image:height","content":"1080"}]
+17:["$","meta","21",{"property":"og:image:alt","content":"Sutrava Software Solutions — AI Business Automation Worldwide"}]
+18:["$","meta","22",{"property":"og:locale:alternate","content":"en_AU"}]
+19:["$","meta","23",{"property":"og:locale:alternate","content":"en_NZ"}]
+1a:["$","meta","24",{"property":"og:locale:alternate","content":"en_GB"}]
+1b:["$","meta","25",{"property":"og:locale:alternate","content":"en_CA"}]
+1c:["$","meta","26",{"property":"og:locale:alternate","content":"en_IN"}]
+1d:["$","meta","27",{"property":"og:type","content":"website"}]
+1e:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+1f:["$","meta","29",{"name":"twitter:title","content":"Industry AI Solutions for Construction, Manufacturing & SMEs Worldwide"}]
+20:["$","meta","30",{"name":"twitter:description","content":"Industry-specific AI and automation solutions for construction, manufacturing, logistics, real estate, healthcare admin, education, restaurants, and SME operations across the USA, Australia, New Zealand, and global markets."}]
+21:["$","meta","31",{"name":"twitter:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+22:["$","link","32",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+23:["$","link","33",{"rel":"icon","href":"/brand/favicon-96.png","sizes":"64x64","type":"image/png"}]
+24:["$","link","34",{"rel":"icon","href":"/brand/logo-mark.png","sizes":"128x128","type":"image/png"}]
+25:["$","link","35",{"rel":"apple-touch-icon","href":"/brand/apple-touch-icon.png"}]
+26:["$","$L2e","36",{}]
+27:["$","meta",null,{"name":"next-size-adjust","content":""}]
+29:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+2d:true
+b:300
+b:C
+2c:0
+2a:"$undefined"
+a:"$undefined"
+28:"$undefined"

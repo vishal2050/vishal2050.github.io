@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" fill="none" role="img" aria-label="Sutrava">
+  <g stroke="#0B0B0D">
+    <path d="M46 14c-3.2-4.4-8.4-6.8-14.4-6.8C21.2 7.2 14 13.2 14 22c0 7.2 4.8 11.2 14.8 13.6L34 37.2C42.4 39.2 46 42 46 47.2c0 5.6-5.2 9.6-12.4 9.6-5.2 0-9.6-2-12.4-5.6" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+    <path d="M49 16.5c-3-4-7.8-6.2-13.4-6.2C24.4 10.3 17.8 15.8 17.8 23.5c0 6.4 4.2 9.8 13.2 12L36.4 37c7.6 1.8 10.8 4.4 10.8 9.2 0 5-4.6 8.6-11.2 8.6-4.6 0-8.6-1.8-11.2-5" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.75"/>
+  </g>
+  <circle cx="46" cy="14" r="2.2" fill="#0B0B0D"/>
+  <circle cx="14" cy="22" r="2" fill="#0B0B0D"/>
+  <circle cx="46" cy="47.2" r="2" fill="#0B0B0D"/>
+  <circle cx="21.2" cy="51.2" r="1.8" fill="#0B0B0D"/>
+  <path d="M48.5 11.5 L52 8 L52 14.5 Z" fill="#0B0B0D"/>
+  <g fill="#0B0B0D">
+    <text x="72" y="30" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" letter-spacing="3">SUTRAVA</text>
+    <text x="72" y="48" font-family="ui-sans-serif, system-ui, sans-serif" font-size="9" font-weight="500" letter-spacing="2.4" fill="#52525B">SOFTWARE SOLUTIONS</text>
+  </g>
+</svg>

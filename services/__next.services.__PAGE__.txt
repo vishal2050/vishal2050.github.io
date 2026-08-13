@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[59544,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"Button"]
+3:I[56417,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"ServiceGrid"]
+4:I[73069,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"MoneyLeakSection"]
+5:I[26462,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"AutomationSection"]
+6:I[62748,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"DocumentSection"]
+7:I[59474,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"CustomSoftwareSection"]
+8:I[4224,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js","/_next/static/chunks/1butmmlh55rhr.js"],"LeadMagnet"]
+9:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+e:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"MetadataBoundary"]
+d:X
+33:X
+33:C
+0:{"buildId":"sgvMhmyByH_EpihiYklTz","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"AI Business Automation & Software Services\",\"description\":\"Global Sutrava services: AI business automation, money leak detection, document intelligence, WhatsApp automation, custom SaaS, workflow automation, dashboards, integrations, and AI consulting for USA, Australia, New Zealand, and more.\",\"url\":\"https://sutravasoftwaresolutions.com/services/\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Sutrava Software Solutions\",\"url\":\"https://sutravasoftwaresolutions.com\"},\"areaServed\":[\"Worldwide\",\"United States\",\"Australia\",\"New Zealand\",\"United Kingdom\",\"Canada\",\"India\",\"United Arab Emirates\",\"Singapore\"],\"serviceType\":\"AI Business Automation & Software Services\"}"}}],["$","section",null,{"className":"relative overflow-hidden pt-28 pb-12 sm:pt-32","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 grid-bg opacity-50"}],["$","div",null,{"className":"glow-orb left-[-8%] top-16 h-64 w-64 bg-accent/15"}],["$","div",null,{"className":"container-page relative max-w-4xl","children":[["$","p",null,{"className":"eyebrow mb-4","children":"Services"}],["$","h1",null,{"className":"text-balance text-4xl font-semibold tracking-tight text-white sm:text-5xl","children":"AI systems that solve expensive business problems."}],["$","p",null,{"className":"mt-5 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg","children":"Sutrava builds AI business automation, software consulting deliverables, document intelligence, and custom software that turn operational friction into measurable outcomes."}],["$","div",null,{"className":"mt-8 flex flex-col gap-3 sm:flex-row","children":[["$","$L2",null,{"href":"/contact","showArrow":true,"children":"Find Your Biggest Business Leak"}],["$","$L2",null,{"href":"/solutions","variant":"secondary","children":"See industries"}]]}]]}]]}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/1butmmlh55rhr.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Le",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050505"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI Business Automation & Software Services Worldwide | Sutrava Software Solutions"}],["$","meta","1",{"name":"description","content":"Global Sutrava services: AI business automation, money leak detection, document intelligence, WhatsApp automation, custom SaaS, workflow automation, dashboards, integrations, and AI consulting for USA, Australia, New Zealand, and more."}],["$","meta","2",{"name":"application-name","content":"Sutrava Software Solutions"}],["$","link","3",{"rel":"author","href":"https://sutravasoftwaresolutions.com"}],["$","meta","4",{"name":"author","content":"Sutrava Software Solutions"}],["$","meta","5",{"name":"keywords","content":"Sutrava,Sutrava Software Solutions,AI business automation,business automation company,software consulting,AI consulting company,custom software development,workflow automation,business process automation,AI software solutions,software intelligence,remote software consulting,global AI automation partner,money leak detection,operational efficiency software,automate repetitive tasks,document intelligence,AI document processing,invoice automation,WhatsApp business automation,CRM automation,lead recovery automation,construction AI software,rebar detailing software,manufacturing automation software,logistics automation,SME business automation,AI for small business,AI for medium business,AI automation company USA,business automation USA,software consulting United States,AI automation Australia,software consulting Australia,business automation New Zealand,software consulting New Zealand,AI automation UK,custom SaaS development,business automation audit,international software consulting"}],"$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]}]}],"$L2f"]}],"isPartial":"$@30","staleTime":"$d","varyParams":null},{"rsc":"$L31","isPartial":"$@32","staleTime":"$d","varyParams":"$33"}],"isUpgradeableISRFallback":false,"a":"$@34","rootVaryParams":null,"needsRuntimeRequest":"$@35"}
+36:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"IconMark"]
+37:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+38:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+b:null
+10:["$","meta","6",{"name":"creator","content":"Sutrava Software Solutions"}]
+11:["$","meta","7",{"name":"publisher","content":"Sutrava Software Solutions"}]
+12:["$","meta","8",{"name":"robots","content":"index, follow"}]
+13:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+14:["$","meta","10",{"name":"category","content":"technology"}]
+15:["$","link","11",{"rel":"canonical","href":"https://sutravasoftwaresolutions.com/services/"}]
+16:["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+17:["$","meta","13",{"property":"og:title","content":"AI Business Automation & Software Services Worldwide"}]
+18:["$","meta","14",{"property":"og:description","content":"Global Sutrava services: AI business automation, money leak detection, document intelligence, WhatsApp automation, custom SaaS, workflow automation, dashboards, integrations, and AI consulting for USA, Australia, New Zealand, and more."}]
+19:["$","meta","15",{"property":"og:url","content":"https://sutravasoftwaresolutions.com/services/"}]
+1a:["$","meta","16",{"property":"og:site_name","content":"Sutrava Software Solutions"}]
+1b:["$","meta","17",{"property":"og:locale","content":"en_US"}]
+1c:["$","meta","18",{"property":"og:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+1d:["$","meta","19",{"property":"og:image:width","content":"1920"}]
+1e:["$","meta","20",{"property":"og:image:height","content":"1080"}]
+1f:["$","meta","21",{"property":"og:image:alt","content":"Sutrava Software Solutions — AI Business Automation Worldwide"}]
+20:["$","meta","22",{"property":"og:locale:alternate","content":"en_AU"}]
+21:["$","meta","23",{"property":"og:locale:alternate","content":"en_NZ"}]
+22:["$","meta","24",{"property":"og:locale:alternate","content":"en_GB"}]
+23:["$","meta","25",{"property":"og:locale:alternate","content":"en_CA"}]
+24:["$","meta","26",{"property":"og:locale:alternate","content":"en_IN"}]
+25:["$","meta","27",{"property":"og:type","content":"website"}]
+26:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+27:["$","meta","29",{"name":"twitter:title","content":"AI Business Automation & Software Services Worldwide"}]
+28:["$","meta","30",{"name":"twitter:description","content":"Global Sutrava services: AI business automation, money leak detection, document intelligence, WhatsApp automation, custom SaaS, workflow automation, dashboards, integrations, and AI consulting for USA, Australia, New Zealand, and more."}]
+29:["$","meta","31",{"name":"twitter:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+2a:["$","link","32",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+2b:["$","link","33",{"rel":"icon","href":"/brand/favicon-96.png","sizes":"64x64","type":"image/png"}]
+2c:["$","link","34",{"rel":"icon","href":"/brand/logo-mark.png","sizes":"128x128","type":"image/png"}]
+2d:["$","link","35",{"rel":"apple-touch-icon","href":"/brand/apple-touch-icon.png"}]
+2e:["$","$L36","36",{}]
+2f:["$","meta",null,{"name":"next-size-adjust","content":""}]
+31:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+35:true
+d:300
+d:C
+34:0
+32:"$undefined"
+c:"$undefined"
+30:"$undefined"

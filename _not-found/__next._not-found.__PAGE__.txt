@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"MetadataBoundary"]
+6:X
+24:X
+24:C
+0:{"buildId":"sgvMhmyByH_EpihiYklTz","data":[{"rsc":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050505"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sutrava Software Solutions | AI Business Automation & Software Consulting Worldwide"}],["$","meta","1",{"name":"description","content":"Sutrava helps businesses in the USA, Australia, New Zealand, UK, Canada, India, and worldwide grow with AI business automation, software consulting, document intelligence, workflow automation, and custom software."}],["$","meta","2",{"name":"application-name","content":"Sutrava Software Solutions"}],["$","link","3",{"rel":"author","href":"https://sutravasoftwaresolutions.com"}],["$","meta","4",{"name":"author","content":"Sutrava Software Solutions"}],["$","meta","5",{"name":"keywords","content":"Sutrava,Sutrava Software Solutions,AI business automation,business automation company,software consulting,AI consulting company,custom software development,workflow automation,business process automation,AI software solutions,software intelligence,remote software consulting,global AI automation partner,money leak detection,operational efficiency software,automate repetitive tasks,document intelligence,AI document processing,invoice automation,WhatsApp business automation,CRM automation,lead recovery automation,construction AI software,rebar detailing software,manufacturing automation software,logistics automation,SME business automation,AI for small business,AI for medium business,AI automation company USA,business automation USA,software consulting United States,AI automation Australia,software consulting Australia,business automation New Zealand,software consulting New Zealand,AI automation UK,custom SaaS development,business automation audit,international software consulting"}],["$","meta","6",{"name":"creator","content":"Sutrava Software Solutions"}],["$","meta","7",{"name":"publisher","content":"Sutrava Software Solutions"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"technology"}],["$","link","11",{"rel":"canonical","href":"https://sutravasoftwaresolutions.com/"}],["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","13",{"property":"og:title","content":"Sutrava Software Solutions | AI Business Automation & Software Consulting Worldwide"}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]}],"$L20"]}],"isPartial":"$@21","staleTime":"$6","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$6","varyParams":"$24"}],"isUpgradeableISRFallback":false,"a":"$@25","rootVaryParams":null,"needsRuntimeRequest":"$@26"}
+27:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"IconMark"]
+28:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+29:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3hiwnb_3ztud4.js","/_next/static/chunks/41-gyts8576_k.js"],"default"]
+4:null
+9:["$","meta","14",{"property":"og:description","content":"Sutrava helps businesses in the USA, Australia, New Zealand, UK, Canada, India, and worldwide grow with AI business automation, software consulting, document intelligence, workflow automation, and custom software."}]
+a:["$","meta","15",{"property":"og:url","content":"https://sutravasoftwaresolutions.com/"}]
+b:["$","meta","16",{"property":"og:site_name","content":"Sutrava Software Solutions"}]
+c:["$","meta","17",{"property":"og:locale","content":"en_US"}]
+d:["$","meta","18",{"property":"og:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+e:["$","meta","19",{"property":"og:image:width","content":"1920"}]
+f:["$","meta","20",{"property":"og:image:height","content":"1080"}]
+10:["$","meta","21",{"property":"og:image:alt","content":"Sutrava Software Solutions — AI Business Automation & Software Consulting Worldwide"}]
+11:["$","meta","22",{"property":"og:locale:alternate","content":"en_AU"}]
+12:["$","meta","23",{"property":"og:locale:alternate","content":"en_NZ"}]
+13:["$","meta","24",{"property":"og:locale:alternate","content":"en_GB"}]
+14:["$","meta","25",{"property":"og:locale:alternate","content":"en_CA"}]
+15:["$","meta","26",{"property":"og:locale:alternate","content":"en_IN"}]
+16:["$","meta","27",{"property":"og:type","content":"website"}]
+17:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+18:["$","meta","29",{"name":"twitter:title","content":"Sutrava Software Solutions | AI Business Automation & Software Consulting Worldwide"}]
+19:["$","meta","30",{"name":"twitter:description","content":"Sutrava helps businesses in the USA, Australia, New Zealand, UK, Canada, India, and worldwide grow with AI business automation, software consulting, document intelligence, workflow automation, and custom software."}]
+1a:["$","meta","31",{"name":"twitter:image","content":"https://sutravasoftwaresolutions.com/brand/og-image.png"}]
+1b:["$","link","32",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+1c:["$","link","33",{"rel":"icon","href":"/brand/favicon-96.png","sizes":"64x64","type":"image/png"}]
+1d:["$","link","34",{"rel":"icon","href":"/brand/logo-mark.png","sizes":"128x128","type":"image/png"}]
+1e:["$","link","35",{"rel":"apple-touch-icon","href":"/brand/apple-touch-icon.png"}]
+1f:["$","$L27","36",{}]
+20:["$","meta",null,{"name":"next-size-adjust","content":""}]
+22:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+26:true
+6:300
+6:C
+25:0
+23:"$undefined"
+5:"$undefined"
+21:"$undefined"
